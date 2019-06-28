@@ -1,6 +1,6 @@
-token=NTM0NzE0OTc4NTU3NDkzMjQ4.Dx9yAg.zGSqjhsgNQo_ADgHs5qiR-ev8MM
-owner=312309921314111498 
-prefix=4
-game=4help | 4play
-stayinchannel=true
+token=NTE2OTUzNDczNDA1ODEyNzM2.XRYPLg.clQADFE3pE6UC07sSJFyUb523-g
+owner=469163253147107328 
+prefix=p
+game=pplay | phelp
+stayinchannel=false
 songinstatus=false
